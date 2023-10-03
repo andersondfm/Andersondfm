@@ -16,7 +16,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh14-1.fna.fbcdn.net/v/t51.2885-19/66426817_360316517974758_3277087302710460416_n.jpg?_nc_ht=instagram.fcgh14-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=i4E6oFMicyEAX8oNq5C&edm=AB32dywBAAAA&ccb=7-4&oh=00_AT8-Wk7qvmY0dY_Qs9jT0oEBypa6xnV4paKlG7Oactq8_g&oe=625FA8F3&_nc_sid=c59781">
 </div>
   
   ##
