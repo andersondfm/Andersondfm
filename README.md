@@ -1,11 +1,11 @@
 ## Hi, I'm Anderson Migloranza 👋  
 ### Fullstack Developer | .NET Enthusiast | Passionate About Technology 🚀
 
-🔭 Currently working as a Software Engineer, developing Fullstack solutions with a focus on .NET 8, ReactJS 18, and Node.js.
-🌱 Expanding skills in messaging systems like RabbitMQ and Kafka, while exploring modern frameworks such as Angular 17, React Native, and Laravel 10.
-💡 Passionate about software architecture and best practices, applying patterns like DDD, SOLID, CQRS, and Clean Architecture to build scalable and efficient solutions.
-🚀 Proven experience in large-scale projects, leveraging technologies like Docker, Kubernetes, and Azure DevOps for continuous integration and delivery.
-🛠️ Strong background in databases (SQL Server, Oracle, MySQL, MongoDB) and application monitoring using tools like Grafana and Dynatrace.
+-🔭 Currently working as a Software Engineer, developing Fullstack solutions with a focus on .NET 8, ReactJS 18, and Node.js.
+-🌱 Expanding skills in messaging systems like RabbitMQ and Kafka, while exploring modern frameworks such as Angular 17, React Native, and Laravel 10.
+-💡 Passionate about software architecture and best practices, applying patterns like DDD, SOLID, CQRS, and Clean Architecture to build scalable and efficient solutions.
+-🚀 Proven experience in large-scale projects, leveraging technologies like Docker, Kubernetes, and Azure DevOps for continuous integration and delivery.
+-🛠️ Strong background in databases (SQL Server, Oracle, MySQL, MongoDB) and application monitoring using tools like Grafana and Dynatrace.
 
 ---
 
