@@ -1,7 +1,4 @@
-<div align="center">
-
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGtYN6hIHdRFA/profile-displayphoto-scale_200_200/B4DZlSwEqVGsAk-/0/1758029962605?e=1770249600&v=beta&t=CSv0sEqAqfHNGgZwys8cHCQogtkWDS-a1FZShjifSuo" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Anderson Migloranza" />
-  
+<div align="center">  
 # 👨‍💻 Anderson Migloranza
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Architect+%7C+20%2B+Years+of+Experience;AI+Solutions+Specialist+%7C+SaaS+Founder;Full+Stack+Developer+%7C+Hands-on+Leader;Transforming+Business+Problems+into+Tech+Solutions)](https://git.io/typing-svg)
