@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGtYN6hIHdRFA/profile-displayphoto-scale_200_200/B4DZlSwEqVGsAk-/0/1758029962605?e=1770249600&v=beta&t=CSv0sEqAqfHNGgZwys8cHCQogtkWDS-a1FZShjifSuo" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Anderson Migloranza" />
   
 # 👨‍💻 Anderson Migloranza
 
@@ -192,13 +194,7 @@ mindmap
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersondfm&theme=tokyonight&hide_border=true&background=0D1117" alt="andersondfm" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersondfm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="andersondfm" />
-</div>
 
 ---
 
