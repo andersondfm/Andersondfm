@@ -314,8 +314,4 @@ const currentMission = {
 
 ---
 
-<img src="https://raw.githubusercontent.com/andersondfm/andersondfm/output/snake.svg" alt="Snake animation" />
-
-**✨ Open to exciting projects, collaborations, and opportunities! ✨**
-
 </div>
